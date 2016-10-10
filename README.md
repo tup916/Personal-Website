@@ -16,33 +16,17 @@ Incorporte Javascript: Add animation to the github image using Javascript. Make 
 Update Camera:Photography to link to my Instagram photography.
 
 Later-On:
-
-Add more information: 
-
-
-      Link to:
-      
-            Resume, and
-            
-            Transcript
-            
+Add more information, such as
+      Picture-Link to:      
+            Resume, and            
+            Transcript            
       Art-Work:
-      
-            paintings,
-            
-            doodles, and 
-            
-            sketches
-            
-      Accomplishments: 
-      
-            Awards,
-            
-            Scholarships, 
-            
-            Published papers and 
-            
-            Research Posters
-            
+            paintings,            
+            doodles, and             
+            sketches            
+      Accomplishments:       
+            Awards,            
+            Scholarships,             
+            Published papers and             
+            Research Posters            
       Link to Travel Videos
-      
