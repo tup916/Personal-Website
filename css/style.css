@@ -1,0 +1,42 @@
+body {
+	background-color: #DDDDDD;
+    background: url("../images/tushita.png") no-repeat fixed center;
+}
+
+h1{
+	color: Indigo;
+	background: White;
+	display: inline;
+}
+
+
+header, section{
+	margin: 22px;
+	padding: 44px;
+}
+
+.part1{
+	font-family: 'Brandon Grotesque';
+	color: Indigo;
+	font-size: 42;
+	margin-left: 20px;
+	display: inline;
+}
+
+.part2{
+	color: Indigo;
+	display: inline;
+	font-size: 42;
+	margin-left: 920px;
+	padding: 40px;
+}
+.portrait{
+	position: center;
+    top: 0; bottom:0; left: 0; right:0;
+    margin: auto;
+}
+.headp{
+	color: Indigo;
+	font-size: 42;
+	margin-bottom:100px;
+}
