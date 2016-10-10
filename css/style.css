@@ -1,12 +1,6 @@
 body {
 	background-color: #DDDDDD;
-    background: url("../images/tushita.png") no-repeat fixed center;
-}
-
-h1{
-	color: Indigo;
-	background: White;
-	display: inline;
+  	# background: url("../images/tushita.png") no-repeat fixed center;
 }
 
 
@@ -16,27 +10,35 @@ header, section{
 }
 
 .part1{
-	font-family: 'Brandon Grotesque';
+	
+	font-family: 'Didact Gothic', sans-serif;
 	color: Indigo;
 	font-size: 42;
-	margin-left: 20px;
+	margin-left: 80px;
 	display: inline;
 }
 
 .part2{
+	
+	font-family: 'Didact Gothic', sans-serif;
 	color: Indigo;
 	display: inline;
 	font-size: 42;
-	margin-left: 920px;
+	margin-left: 800px;
 	padding: 40px;
 }
-.portrait{
-	position: center;
-    top: 0; bottom:0; left: 0; right:0;
-    margin: auto;
-}
-.headp{
+.part2a{
+	
+	font-family: 'Didact Gothic', sans-serif;
 	color: Indigo;
+	display: inline;
 	font-size: 42;
-	margin-bottom:100px;
+	margin-left: 750px;
+	padding: 40px;
+}
+
+
+.credits{
+	color: Indigo;
+	font-family: 'Didact Gothic', sans-serif;
 }
