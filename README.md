@@ -17,19 +17,19 @@ Update Camera:Photography to link to my Instagram photography.
 
 Later-On:
 Add more information, such as
-      Picture-Link to:      
+		Picture-Link to:      
             Resume, and            
             Transcript            
-      Art-Work:
+		Art-Work:
             paintings,            
             doodles, and             
             sketches            
-      Accomplishments:       
+		Accomplishments:       
             Awards,            
             Scholarships,             
             Published papers and             
             Research Posters            
-      Link to Travel Videos
+		Link to Travel Videos
 
 	  
 Also, keep experimenting with CSS and Javascript to learn more.
