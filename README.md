@@ -1,5 +1,5 @@
 # Personal-Website
-With an aim to learn HTML, CSS, and possibly Javascript, this is my personal website.
+With an aim to learn HTML, CSS, and possibly use Javascript, this is my personal website.
 
 
 Here is the link to my university's provided personal website: http://homepage.usask.ca/~tup916/
@@ -12,8 +12,21 @@ Future plans:
 
 Near future: 
 
-Incorporte Javascript: Add animation to the github image using Javascript. Make it so that it moves around the page. 
-
+Incorporte Javascript: Add animation to the github image using Javascript. Make it so that it floats around the page.
+Update Camera:Photography to link to my Instagram photography.
 
 Later-On:
-Add more information: Work Experience, Art-Work, Link to Travel Videos
+Add more information: 
+      Link to:
+            Resume, and
+            Transcript
+      Art-Work:
+            paintings,
+            doodles, and 
+            sketches
+      Accomplishments: 
+            Awards,
+            Scholarships, 
+            Published papers and 
+            Research Posters
+      Link to Travel Videos
