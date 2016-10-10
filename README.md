@@ -2,8 +2,7 @@
 With an aim to learn HTML, CSS, and possibly Javascript, this is my personal website.
 
 
-Here is the link to my university's provided personal website: www.homepage.usask.ca/~tup916
-
+Here is the link to my university's provided personal website: http://homepage.usask.ca/~tup916/
 
 
 Currently, I have only put up an HTML, and a CSS file for styling.
