@@ -13,22 +13,19 @@ Future plans:
 Near future: 
 
 Incorporte Javascript: Add animation to the github image using Javascript. Make it so that it floats around the page.
-Update Camera:Photography to link to my Instagram photography.
+
+Update Camera Image Link(Photography) to link to my collection of photographs.
 
 Later-On:
+
 Add more information, such as
-		Picture-Link to:      
-            Resume, and            
-            Transcript            
-		Art-Work:
-            paintings,            
-            doodles, and             
-            sketches            
-		Accomplishments:       
-            Awards,            
-            Scholarships,             
-            Published papers and             
-            Research Posters            
+
+		Picture-Link to: Resume, and Transcript 
+		
+		Art-Work: paintings, sketches          
+		
+		Accomplishments: Awards, Scholarships, Published papers and Research Posters 
+		
 		Link to Travel Videos
 
 	  
