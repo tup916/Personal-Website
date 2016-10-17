@@ -1,6 +1,6 @@
 body {
 	background-color: #DDDDDD;
-  	# background: url("../images/tushita.png") no-repeat fixed center;
+    background: url("../images/TushitaSketch2.png") no-repeat fixed center;
 }
 
 
@@ -14,7 +14,7 @@ header, section{
 	font-family: 'Didact Gothic', sans-serif;
 	color: Indigo;
 	font-size: 42;
-	margin-left: 80px;
+	margin-left: 100px;
 	display: inline;
 }
 
@@ -24,7 +24,7 @@ header, section{
 	color: Indigo;
 	display: inline;
 	font-size: 42;
-	margin-left: 800px;
+	margin-left: 850px;
 	padding: 40px;
 }
 .part2a{
@@ -33,12 +33,13 @@ header, section{
 	color: Indigo;
 	display: inline;
 	font-size: 42;
-	margin-left: 750px;
+	margin-left: 790px;
 	padding: 40px;
 }
 
 
 .credits{
 	color: Indigo;
+	background-color: #EEEEEE;
 	font-family: 'Didact Gothic', sans-serif;
 }
