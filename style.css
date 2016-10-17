@@ -1,0 +1,45 @@
+body {
+	background-color: #DDDDDD;
+    background: url("../images/TushitaSketch2.png") no-repeat fixed center;
+}
+
+
+header, section{
+	margin: 22px;
+	padding: 44px;
+}
+
+.part1{
+	
+	font-family: 'Didact Gothic', sans-serif;
+	color: Indigo;
+	font-size: 42;
+	margin-left: 100px;
+	display: inline;
+}
+
+.part2{
+	
+	font-family: 'Didact Gothic', sans-serif;
+	color: Indigo;
+	display: inline;
+	font-size: 42;
+	margin-left: 850px;
+	padding: 40px;
+}
+.part2a{
+	
+	font-family: 'Didact Gothic', sans-serif;
+	color: Indigo;
+	display: inline;
+	font-size: 42;
+	margin-left: 790px;
+	padding: 40px;
+}
+
+
+.credits{
+	color: Indigo;
+	background-color: #EEEEEE;
+	font-family: 'Didact Gothic', sans-serif;
+}
