@@ -1,10 +1,10 @@
 body {
-	background-color: #DDDDDD;
-    background: url("../images/TushitaSketch2.png") no-repeat fixed center;
+    background: linear-gradient(to bottom, #ADD8E6 75%, #CD96CD 100%);
+	#background: url("../images/TushitaSketch2.png") no-repeat fixed center;
 }
 
 
-header, section{
+header, div{
 	margin: 22px;
 	padding: 44px;
 }
@@ -14,17 +14,38 @@ header, section{
 	font-family: 'Didact Gothic', sans-serif;
 	color: Indigo;
 	font-size: 42;
-	margin-left: 100px;
+	margin-left: 90px;
 	display: inline;
 }
 
+.writeup {
+	padding: 10px 100px 10px 10px; 
+	height: 50px; 
+	width: 600px;
+	position:fixed;
+	left:350;
+	top:30;
+	color: MidnightBlue;
+	font-family: 'Didact Gothic', sans-serif;
+	
+}
+
+.writeupHead:hover{
+	background: rgba(122,103,238, 0.5);
+	color: Black;
+}
+
+.headshot {
+	border-radius: 50%;
+	margin-left: 250px;
+}
 .part2{
 	
 	font-family: 'Didact Gothic', sans-serif;
 	color: Indigo;
 	display: inline;
 	font-size: 42;
-	margin-left: 850px;
+	margin-left: 860px;
 	padding: 40px;
 }
 .part2a{
@@ -37,9 +58,56 @@ header, section{
 	padding: 40px;
 }
 
+/*
+.githubAccount:hover,
+.blogs:hover,
+.linkedIn:hover,
+.photography:hover {
+	
+	#background: #FEA212;
+  -ms-transform: rotate(-10deg);
+  -webkit-transform: rotate(-10deg);
+  -moz-transform: rotate(-10deg);
+  -o-transform: rotate(-10deg);
+  transform: rotate(-10deg);
+}
+*/
+
+.githubAccount:hover,
+.blogs:hover,
+.linkedIn:hover,
+.photography:hover,
+.resume:hover {
+  animation-name: pulse;
+  animation-duration: 0.75s; 
+  animation-timing-function: linear; 
+  animation-delay: 0;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: forward;
+  animation-play-state: running; 
+}
+
+@keyframes pulse {
+  0% {
+  -ms-transform: rotate(-10deg);
+  -webkit-transform: rotate(-10deg);
+  -moz-transform: rotate(-10deg);
+  -o-transform: rotate(-10deg);
+  transform: rotate(-10deg);
+  }
+  100% {
+  -ms-transform: rotate(10deg);
+  -webkit-transform: rotate(10deg);
+  -moz-transform: rotate(10deg);
+  -o-transform: rotate(10deg);
+  transform: rotate(10deg);
+  }
+}
+
+
 
 .credits{
-	color: Indigo;
-	background-color: #EEEEEE;
+	color: MidnightBlue;
 	font-family: 'Didact Gothic', sans-serif;
 }
