@@ -3,7 +3,9 @@ With an aim to learn HTML, CSS, and possibly use Javascript, this is my personal
 
 
 Here is the link to my university's provided personal website: http://homepage.usask.ca/~tup916/
-
+To checkout this repo, 
+1. Download the repo.
+2. Open index.html with a web browser. Preffered: Firefox or Google Chrome.
 
 Currently, I have only put up an HTML, and a CSS file for styling.
 All images are created using Inkscape, GIMP, and the good-old Paint. Some images were hand-drawn as well.
