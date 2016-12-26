@@ -10,6 +10,7 @@ html {
       -ms-text-size-adjust: 100%;
 }
 body {
+  background: linear-gradient(to bottom, #ADD8E6 75%, #CD96CD 100%);
   margin: 0;
 }
 article,
